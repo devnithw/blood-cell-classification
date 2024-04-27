@@ -30,6 +30,8 @@ model = tf.keras.Sequential([
 ])
 ```
 
+The full code for the preprocessing, model training and evaluation process is included in the Jupyter Notebook.
+
 ## Results
 
 This simple model resulted in a accuracy over 80%. The validation accuracy was 87.5%. As shown in the image below, the model has predicted the label for most images correctly.
